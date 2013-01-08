@@ -1,0 +1,9 @@
+These are the solutions to first 5 weeks of Functional Programming through Coursera. There were four assignments in the first 5 weeks:
+
+1) recursion - short exercises to form Pascal's Triangle patterns and a parentheses balancing function.
+
+2) funsets - implementing several functions on sets such as returning the intersection, union, and using higher order functions to apply transformations on sets.
+
+3) tweetsets - implementing sorting, filtering, and other operations on a "Tweetset" data type. My work was done in TweetSet.scala.
+
+4) Huffman - implementing lossless compression using Huffman Coding.
